@@ -1,11 +1,22 @@
 # Machine Learning - IIT KGP (2025)
 
-This repository contains lecture's slides, assignments resources for the Machine Learning course at IIT Kharagpur.
+This repository contains lecture slides and assignment resources for the Machine Learning course at IIT Kharagpur.
 
 ## 📂 Folder Structure
 
-- `Assignments/`
-- `Slides/`
+- `ML_Assignments/` – Contains all machine learning assignments with problem statements and solutions
+- `Theory_Slides/` – Contains lecture slides covering various ML topics
+
+## 📥 Accessing ML Assignments
+
+To download and access the ML assignments:
+1. Clone this repository: `git clone https://github.com/ProtocolAshu/Machine_Learning-IIT_KGP_25-.git`
+2. Navigate to the `ML_Assignments/` folder
+
+Each assignment is organized in its own subfolder:
+- `ML_Assign_1/` – Linear Regression, Logistic Regression, and SVM
+- `ML_Assign_2/` – Random Forest and XGBoost implementation
+- `ML_Assign_3/` – Clustering assignment with visual and textual features analysis
 
 ## 🧠 Topics Covered
 
