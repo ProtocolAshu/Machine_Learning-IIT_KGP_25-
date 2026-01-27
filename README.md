@@ -4,8 +4,15 @@ This repository contains lecture's slides, assignments resources for the Machine
 
 ## 📂 Folder Structure
 
-- `Assignments/`
-- `Slides/`
+- `ML_Assignments/` – Contains all machine learning assignments with problem statements and solutions
+- `Theory_Slides/` – Contains lecture slides covering various ML topics
+
+## 📥 Download ML Assignments
+
+To access the ML assignments, navigate to the `ML_Assignments/` folder. Each assignment is organized in its own subfolder:
+- `ML_Assign_1/` – Linear Regression, Logistic Regression, and SVM
+- `ML_Assign_2/` – Assignment 2 with problem statements and notebooks
+- `ML_Assign_3/` – Clustering assignment with visual and textual features analysis
 
 ## 🧠 Topics Covered
 
