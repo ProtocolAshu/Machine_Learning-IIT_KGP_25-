@@ -7,9 +7,13 @@ This repository contains lecture slides and assignment resources for the Machine
 - `ML_Assignments/` – Contains all machine learning assignments with problem statements and solutions
 - `Theory_Slides/` – Contains lecture slides covering various ML topics
 
-## 📥 Download ML Assignments
+## 📥 Accessing ML Assignments
 
-To access the ML assignments, navigate to the `ML_Assignments/` folder. Each assignment is organized in its own subfolder:
+To download and access the ML assignments:
+1. Clone this repository: `git clone https://github.com/ProtocolAshu/Machine_Learning-IIT_KGP_25-.git`
+2. Navigate to the `ML_Assignments/` folder
+
+Each assignment is organized in its own subfolder:
 - `ML_Assign_1/` – Linear Regression, Logistic Regression, and SVM
 - `ML_Assign_2/` – Random Forest and XGBoost implementation
 - `ML_Assign_3/` – Clustering assignment with visual and textual features analysis
