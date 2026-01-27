@@ -11,7 +11,7 @@ This repository contains lecture slides and assignment resources for the Machine
 
 To access the ML assignments, navigate to the `ML_Assignments/` folder. Each assignment is organized in its own subfolder:
 - `ML_Assign_1/` – Linear Regression, Logistic Regression, and SVM
-- `ML_Assign_2/` – Assignment 2 with problem statements and notebooks
+- `ML_Assign_2/` – Random Forest and XGBoost implementation
 - `ML_Assign_3/` – Clustering assignment with visual and textual features analysis
 
 ## 🧠 Topics Covered
