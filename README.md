@@ -1,6 +1,6 @@
 # Machine Learning - IIT KGP (2025)
 
-This repository contains lecture's slides, assignments resources for the Machine Learning course at IIT Kharagpur.
+This repository contains lecture slides and assignment resources for the Machine Learning course at IIT Kharagpur.
 
 ## 📂 Folder Structure
 
