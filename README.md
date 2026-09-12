@@ -4,8 +4,13 @@ This repository contains lecture's slides, assignments resources for the Machine
 
 ## 📂 Folder Structure
 
-- `Assignments/`
-- `Slides/`
+- `ML_Assignments/`
+  - `Assign1_Linear_Logistic_Regression_SVM/` – Linear Regression, Logistic Regression & SVM from scratch (house prices, pumpkin seeds)
+  - `Assign2_Random_Forest_XGBoost/` – Random Forest from scratch (Pima Diabetes, 91.53%) & tuned XGBoost (Telco Churn)
+  - `Assign3_Multimodal_Image_Clustering_CIFAR10/` – Multimodal clustering (ResNet18 + SentenceBERT, K-Means/GMM, t-SNE)
+- `Theory_Slides/`
+
+Each assignment folder contains its own `README.md` with implementation details and results.
 
 ## 🧠 Topics Covered
 
